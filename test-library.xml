@@ -11,7 +11,7 @@
     <item>
       <title>My Sketch Library</title>
       <pubDate>Wed, 11 Jul 2018 11:19:04 +0000</pubDate>
-      <enclosure url="https://github.com/qimmiq/test/raw/master/test-library.sketch" type="application/octet-stream" sparkle:version="2"/>
+      <enclosure url="https://github.com/qimmiq/test/raw/master/test-library.sketch" type="application/octet-stream" sparkle:version="3"/>
     </item>
   </channel>
 </rss>
